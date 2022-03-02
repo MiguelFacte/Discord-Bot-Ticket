@@ -1,7 +1,7 @@
 const Discord = require("discord.js");
 const intents = new Discord.Intents();
 const client = new Discord.Client({ intents: 32767 });
-const { admin, moderator, presence, prefixbot, token } = require("./config.json");
+const { admin, moderator, category, presence, prefixbot, token } = require("./config.json");
 client.on("ready", () => {
     console.log(`\n\x1b[47m\x1b[30m\x1b[5mBy Nil PM\x1b[0m\n\x1b[0m\n\x1b[36m ${client.user.username} Online \n \x1b[32mSlash Command activated\n\x1b[0m`)
     client.user.setActivity(presence);
@@ -34,7 +34,7 @@ client.on("interactionCreate", async(interaction) => {
             interaction.guild.channels.create(`ticket-${interaction.user.username}`,{
                 reason: `Ticket created by: ${interaction.user.username}`,
                 type: "GUILD_TEXT",
-                parent: "948256822442201158",
+                parent: category,
                 permissionOverwrites: [
                     {
                         id: everyone.id,
