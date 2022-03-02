@@ -4,7 +4,7 @@ Built for Discord communities. It was created to improve the technical support o
 
 Built on Node.js
 
-#dependence
+Dependence
 npm i discord.js@latest
 npm i @discordjs/rest
 
