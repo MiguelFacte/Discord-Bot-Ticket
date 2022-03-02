@@ -6,6 +6,7 @@ Built on Node.js
 
 Dependence
 npm i discord.js@latest
+
 npm i @discordjs/rest
 
 
