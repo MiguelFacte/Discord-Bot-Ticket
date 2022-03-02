@@ -1,0 +1,11 @@
+{
+  "name": "tickets-bot",
+  "version": "1.0.0",
+  "description": "Creado para comunidades de Discord. Fue creado para mejorar el soporte tecnico de los servidores publicos como privados",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nil PM",
+  "license": "ISC"
+}

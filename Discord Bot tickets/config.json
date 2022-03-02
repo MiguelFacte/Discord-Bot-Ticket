@@ -1,0 +1,10 @@
+{
+    "prefixbot": "!",
+    "token": "Token BOT",
+    "presence": "Tickets! :)",
+    "category": "Category where you want tickets to be created",
+    "clientId": "bot ID",
+    "guild": "server ID",
+    "moderator": "Moderator Role ID",
+    "admin": "Admin Role ID"
+}
