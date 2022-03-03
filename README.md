@@ -15,6 +15,8 @@ Tutorial YouTube: soon
 
 Do you have a problem or question?
 contact me on Discord
+Nil PM#3308
 https://discord.com/channels/users/750106010840072193
+Server Discord (soon)
 
 Use it with all confidence :)
