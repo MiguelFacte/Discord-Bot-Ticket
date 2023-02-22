@@ -35,4 +35,4 @@ node .
 ```
 
 ##### Do you have any question?
-If so, do not hesitate to enter my Discord server.
+If so, do not hesitate to enter my [Discord server](https://discord.gg/bAEZqtxr82).
