@@ -1,11 +1,13 @@
-<if it is the case that you want to edit the bot code here I leave you the Slashcommands code if you want to use it obviously :)>
+> if it is the case that you want to edit the bot code here I leave you the Slashcommands code if you want to use it obviously :)>
 to add the created commands use the following command in the cmd
 
+```sh
 node slashcommands.js
+```
 
+## Structure command
 
---------------structure command-----------------
-
+```js
 const { SlashCommandBuilder } = require("@discordjs/builders")
 const { MessageEmbed } = require("discord.js")
 const Discord = require("discord.js")
@@ -19,3 +21,4 @@ module.exports = {
         
     }
 }
+```
