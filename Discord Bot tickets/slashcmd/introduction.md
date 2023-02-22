@@ -1,3 +1,4 @@
+## SlashCommands
 > if it is the case that you want to edit the bot code here I leave you the Slashcommands code if you want to use it obviously :)>
 to add the created commands use the following command in the cmd
 
